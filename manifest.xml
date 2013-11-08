@@ -1,0 +1,16 @@
+<package>
+  <description brief="dmp_testing">
+
+     dmp_testing
+
+  </description>
+  <author>Sam Pfeiffer</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/dmp_testing</url>
+  <depend package="rospy"/>
+  <depend package="dmp"/>
+
+</package>
+
+
